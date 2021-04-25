@@ -1,0 +1,4 @@
+server/node_modules
+server/package-lock.json
+client/hotel-app/node_modules
+client/hotel-app/package-lock.json
